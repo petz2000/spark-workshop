@@ -1,6 +1,14 @@
 # slide number 1
 in spark we do stuff 
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 
 --- 
 
